@@ -1,0 +1,67 @@
+#tituloCarrito{
+font-size: 14px;
+font-weight: bold;
+}
+
+#carritoVacio{
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align:center;
+}
+
+#recuerdaCompra{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#cardCarrito{
+  background-color:#f3f7f6;
+}
+
+#eliminarItem{
+  position: relative;
+  right: 5;
+}
+
+#htmlCarrito{
+  margin-left: 5%;
+}
+
+.navbar-brand1{
+  padding-top: 5px;
+  padding-right: 5px;
+}
+.navbar-default{
+  background-color:#A3E4D7  ;
+}
+.foto{
+  margin-top:5px;
+  margin-bottom:15px;
+}
+.card-body{
+  padding-left: 55px;
+}
+.pagination{
+padding-left: 35%;
+}
+.no-gutters{
+  margin-top: 15px;
+}
+h3{
+  padding-left: 9%;
+  color: #1D8348;
+}
+.badge-secondary{
+  background-color: #F1948A;
+}
+.imagen_fondo_oferta{
+  padding-left: 7%;
+}
+.seccion_formulario{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#disenoCarrito{
+padding-left: 10%;
+}
